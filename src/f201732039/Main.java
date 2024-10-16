@@ -6,7 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("홍주아");
 		World.run();
-		 Hello.run();
+		Hello.run();
+		World.run2();
 	}
 
 }
